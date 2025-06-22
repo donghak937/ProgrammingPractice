@@ -15,8 +15,6 @@ int main(){
     cout << "double : " << precision << endl;
     cout << "bool : " << is_true << endl;
     cout << "string : " << word << endl;
-
-    
     
     return 0;
 }

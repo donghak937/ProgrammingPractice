@@ -11,7 +11,7 @@ int main(){
             cout << i << " : " << data[i] << "는 짝수입니다." << endl;
         else
             cout << i << " : " << data[i] << "는 홀수입니다." << endl;
-        }
+    }
 
     return 0;
 }

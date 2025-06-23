@@ -20,6 +20,5 @@ int main(){
     cout << "x = " << Func2() << endl;
     cout << "x = " << x << endl;
 
-
     return 0;
 }
